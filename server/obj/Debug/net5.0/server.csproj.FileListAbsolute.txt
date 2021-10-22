@@ -1,0 +1,16 @@
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.exe
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.deps.json
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.runtimeconfig.json
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.dll
+D:\encrypt-decrypt\server\bin\Debug\net5.0\ref\server.dll
+D:\encrypt-decrypt\server\bin\Debug\net5.0\server.pdb
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.csproj.AssemblyReference.cache
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.dll
+D:\encrypt-decrypt\server\obj\Debug\net5.0\ref\server.dll
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.pdb
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.genruntimeconfig.cache
