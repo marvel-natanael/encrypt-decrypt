@@ -14,3 +14,6 @@ D:\encrypt-decrypt\server\obj\Debug\net5.0\server.dll
 D:\encrypt-decrypt\server\obj\Debug\net5.0\ref\server.dll
 D:\encrypt-decrypt\server\obj\Debug\net5.0\server.pdb
 D:\encrypt-decrypt\server\obj\Debug\net5.0\server.genruntimeconfig.cache
+D:\encrypt-decrypt\server\bin\Debug\net5.0\library.dll
+D:\encrypt-decrypt\server\bin\Debug\net5.0\library.pdb
+D:\encrypt-decrypt\server\obj\Debug\net5.0\server.csproj.CopyComplete

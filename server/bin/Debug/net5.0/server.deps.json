@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "server/1.0.0": {
+        "dependencies": {
+          "library": "1.0.0"
+        },
         "runtime": {
           "server.dll": {}
+        }
+      },
+      "library/1.0.0": {
+        "runtime": {
+          "library.dll": {}
         }
       }
     }
   },
   "libraries": {
     "server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "library/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

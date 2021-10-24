@@ -1,0 +1,12 @@
+D:\encrypt-decrypt\library\bin\Debug\net5.0\library.deps.json
+D:\encrypt-decrypt\library\bin\Debug\net5.0\library.dll
+D:\encrypt-decrypt\library\bin\Debug\net5.0\ref\library.dll
+D:\encrypt-decrypt\library\bin\Debug\net5.0\library.pdb
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.csproj.AssemblyReference.cache
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.AssemblyInfoInputs.cache
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.AssemblyInfo.cs
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.csproj.CoreCompileInputs.cache
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.dll
+D:\encrypt-decrypt\library\obj\Debug\net5.0\ref\library.dll
+D:\encrypt-decrypt\library\obj\Debug\net5.0\library.pdb

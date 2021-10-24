@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "library/1.0.0": {
+      "type": "project",
+      "path": "../../library/library.csproj",
+      "msbuildProject": "../../library/library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\natan\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\encrypt-decrypt\\library\\library.csproj": {
+              "projectPath": "D:\\encrypt-decrypt\\library\\library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

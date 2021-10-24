@@ -30,3 +30,6 @@ D:\encrypt-decrypt\clients\alice\obj\Debug\net5.0\client.dll
 D:\encrypt-decrypt\clients\alice\obj\Debug\net5.0\ref\client.dll
 D:\encrypt-decrypt\clients\alice\obj\Debug\net5.0\client.pdb
 D:\encrypt-decrypt\clients\alice\obj\Debug\net5.0\client.genruntimeconfig.cache
+D:\encrypt-decrypt\clients\alice\bin\Debug\net5.0\library.dll
+D:\encrypt-decrypt\clients\alice\bin\Debug\net5.0\library.pdb
+D:\encrypt-decrypt\clients\alice\obj\Debug\net5.0\client.csproj.CopyComplete
